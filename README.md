@@ -13,7 +13,7 @@ Must do stuff for all coding interviews will keep updating stuff occasionally
 2. Try it yourself - see the question - if not getting it - see the approach - code it - still not getting? - see my code - but still write it your own way.
 That is how you will learn no way around.
 
-## Best Sites for Practice. Follow them in the given order exactly 
+## Best Sites for Practice. Follow them in the given order exactly!
 ### DO NOT SKIP ANY QUESTION OR TOPIC - DON'T FOOL YOURSELF:
 ### Use the free offerings in the best way possible - DO ALL OF THEM : 
 1. https://www.interviewbit.com/practice/
