@@ -13,7 +13,8 @@ Simply go to the individual topic files - I have tried to include as much inform
 2. Try it yourself - see the question - if not getting it - see the approach - code it - still not getting? - see my code - but still write it your own way.
 That is how you will learn no way around.
 
-## Best Sites for Practice Follow them in the given order exactly (DO NOT SKIP ANY QUESTION OR TOPIC - DON'T FOOL YOURSELF):
+## Best Sites for Practice Follow them in the given order exactly 
+### DO NOT SKIP ANY QUESTION OR TOPIC - DON'T FOOL YOURSELF:
 ### Use the free offerings perfectly : 
 1. https://www.interviewbit.com/practice/
 2. https://leetcode.com/problemset/all/
