@@ -15,13 +15,13 @@ That is how you will learn no way around.
 
 ## Best Sites for Practice Follow them in the given order exactly 
 ### DO NOT SKIP ANY QUESTION OR TOPIC - DON'T FOOL YOURSELF:
-### Use the free offerings perfectly : 
+### Use the free offerings in the best way possible - DO ALL OF THEM : 
 1. https://www.interviewbit.com/practice/
 2. https://leetcode.com/problemset/all/
 
 
 ## Reference site : 
-### Use it for solutions + interview experiences also!
+#### Use it for solutions + interview experiences also!
 ### https://www.geeksforgeeks.org/
 
 ## Must watch Youtube Channels
