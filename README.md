@@ -36,5 +36,5 @@ https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww
 ## Contribution 
 There are a lot of ways in which we can improve this - reach out to me at here if you want to contribute : 
 
-https://twitter.com/AskSathvik
-https://www.linkedin.com/in/asksathvik/
+1. https://twitter.com/AskSathvik
+2. https://www.linkedin.com/in/asksathvik/
