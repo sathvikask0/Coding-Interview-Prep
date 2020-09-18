@@ -31,3 +31,10 @@ https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
 
 2. Hackerank channel - pretty good
 https://www.youtube.com/channel/UCOf7UPMHBjAavgD0Qw5q5ww
+
+
+## Contribution 
+There are a lot of ways in which we can improve this - reach out to me at here if you want to contribute : 
+
+https://twitter.com/AskSathvik
+https://www.linkedin.com/in/asksathvik/
