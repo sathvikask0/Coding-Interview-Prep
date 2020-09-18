@@ -3,7 +3,7 @@ Must do stuff for all coding interviews will keep updating stuff occasionally
 
 
 ## How to use this? 
-### Simply go to the individual topic files - I have tried to include as much information as possible : 
+### Simply go to the individual topic files in TopicWiseQuestions folder - I have tried to include as much information as possible : 
 1. The links needed to see that question
 2. Minimalistic & Commented Code
 3. Tried to order in terms of difficulty - You can choose to follow any order ofcourse. Given order is suggested.
