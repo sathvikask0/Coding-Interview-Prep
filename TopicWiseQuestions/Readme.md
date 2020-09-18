@@ -28,6 +28,6 @@
 
 ## MOST Important DO NOT SKIP THIS.
 
-14. Dynamic programming : Aditya Verma Videos will help.
+14. Dynamic programming : Aditya Verma Videos will help : https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
 15. Graphs
 
