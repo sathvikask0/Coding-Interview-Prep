@@ -1,4 +1,4 @@
-# in what order should you do this?
+# In what order should you do this?
 
 ## Look at the Cpp containers and algorithms.cpp
 
