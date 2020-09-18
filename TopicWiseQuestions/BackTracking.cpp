@@ -1,3 +1,15 @@
+Topic : Recusion:
+
+https://cs.stackexchange.com/questions/7048/a-recursive-formula-for-generalized-josephus-problem
+int yo(int n,int k)
+{
+    if(n==0)
+     return k;
+    
+    return (yo(n-1,k)+k)%n;
+}
+
+
 Topic : Backtracking
 
 //N queens problem
